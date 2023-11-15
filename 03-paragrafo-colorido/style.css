@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    border-style: dashed;
+    border-color: pink;
+    margin: 40px;
+}
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+.primeiro-paragrafo{
+    background-color: #F5F5F5;
+}
+.segundo-paragrafo{
+    background-color: #F0CCE2;
+}
